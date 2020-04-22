@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Android Mashnin</string>
+    <string name="toFirstActivity">To First Activity</string>
+    <string name="toSplashScreen">To splash Screen</string>
 </resources>
