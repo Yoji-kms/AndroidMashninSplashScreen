@@ -14,7 +14,7 @@ public class FirstActivity extends AppCompatActivity implements View.OnClickList
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Button toSplashScreenButton = (Button) findViewById(R.id.toSplashScreenButtonID);
+        Button toSplashScreenButton = findViewById(R.id.toSplashScreenButtonID);
         toSplashScreenButton.setOnClickListener(this);
     }
 
