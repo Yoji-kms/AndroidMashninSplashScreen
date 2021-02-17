@@ -1,9 +1,9 @@
-## Нетология. Введение в Android. Задание 1. Задача 2
+## Нетология. Введение в Android. Урок 1 (Введение в Android). Задача 2
 
 
-[**Задание**](https://github.com/netology-code/and-homeworks/tree/master/1.1.android-components/1.1.2):
+### [Задание](https://github.com/netology-code/and-homeworks/tree/master/1.1.android-components/1.1.2):
 
 - Нужно добавить стартовый экран для приложения
 - На стратовый экран поместить картинку
 - Установить созданный экран в качестве стартового
-- Установить иконку приложения
+- Установить иконку приложенияS
